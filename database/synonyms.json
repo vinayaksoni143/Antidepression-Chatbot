@@ -1,0 +1,41 @@
+{
+    "hope":{
+        "words":["hope","achievement","ambition","anticipation","aspiration","belief", "concern", "confidence", "desire", "expectation", "faith", "goal", "optimism", "promise", "prospect", "wish", "assumption", "buoyancy", "daydream", "dependence", "endurance", "expectancy", "fancy", "fortune", "gain", "hopefulness", "reliance", "reverie", "reward", "rosiness", "sanguineness", "security", "stock", "utopia", "Promised Land", "bright side", "castles in air", "fool's paradise", "greedy glutton", "light at end of tunnel", "pipe dream", "thing with feathers"]
+    },
+    "calm":{
+        "words":["calm","cool", "harmonious", "low-key", "mild", "placid", "serene", "slow", "smooth", "soothing", "tranquil", "bucolic", "halcyon", "hushed", "pacific", "pastoral", "reposing", "still", "at a standstill", "at peace", "bland", "breathless", "breezeless", "in order", "inactive", "motionless", "quiescent", "reposeful", "restful", "rural", "stormless", "undisturbed", "unruffled", "waveless", "windless"]
+    },
+    "support":{
+        "words":["support","backing", "abutment", "agency", "back", "base", "bed", "bedding", "block", "brace", "buttress", "collar", "column", "cornerstone", "device", "flotation", "foothold", "footing", "foundation", "fulcrum", "groundwork", "guide", "hold", "lining", "means", "medium", "pillar", "platform", "pole", "post", "prop", "rampart", "reinforcement", "rest", "rib", "rod", "shore", "stake", "stanchion", "stave", "stay", "stiffener", "stilt", "substratum", "substructure", "sustentation", "timber", "underpinning"]
+    },
+    "validation":{
+        "words":["affirmation", "authorization", "corroboration", "endorsement", "proof", "recognition", "verification", "accord", "admission", "agreement", "approval", "assent", "attestation", "authentication", "avowal", "consent", "demonstration", "evidence", "nod", "okay", "passage", "passing", "sanction", "substantiation", "support", "supporting", "testament", "testimonial", "testimony", "visa", "warrant", "witness", "accepting", "affirming", "authenticating", "authorizing", "corroborating", "go ahead", "green light", "proving", "sanctioning", "stamp of approval", "validating", "verifying"]
+    },
+    "balance":{
+        "words":["balance","equity", "harmony", "tension", "antithesis", "correspondence", "counterbalance", "equivalence", "evenness", "hang", "parity", "proportion", "stasis", "symmetry", "even-steven"]
+    },
+    "acceptance":{
+        "words":["acknowledgment", "admission", "approval", "compliance", "consent", "cooperation", "recognition", "acquiring", "assent", "getting", "go ahead", "nod", "okay", "permission", "receipt", "reception", "undertaking", "yes", "accepting", "gaining", "green light", "obtaining", "receiving", "securing", "taking on"]
+    },
+    "peace":{
+        "words":["accord", "friendship", "love", "reconciliation", "truce", "unity", "amity", "armistice", "cessation", "conciliation", "concord", "neutrality", "order", "pacification", "pacifism", "treaty", "unanimity", "union"]
+    },
+    "safety":{
+        "words":["freedom", "security", "assurance", "asylum", "cover", "defense", "immunity", "impregnability", "invulnerability", "refuge", "safeness", "sanctuary", "shelter", "inviolability"]
+    },
+    "courage":{
+        "words":["audacity", "bravery", "daring", "determination", "endurance", "fearlessness", "firmness", "fortitude", "gallantry", "grit", "heroism", "prowess", "spirit", "spunk", "tenacity", "valor", "adventurousness", "backbone", "bravura", "dash", "dauntlessness", "enterprise", "gameness", "guts", "hardihood", "intrepidity", "mettle", "nerve", "pluck", "power", "pugnacity", "rashness", "recklessness", "resolution", "stoutheartedness", "temerity", "venturesomeness", "adventuresomeness", "lion-heartedness", "élan"]
+    },
+    "control":{
+        "words":["authority", "curb", "discipline", "domination", "force", "government", "jurisdiction", "management", "oversight", "regulation", "restraint", "restriction", "rule", "supervision", "ascendancy", "bridle", "charge", "check", "clout", "containment", "determination", "direction", "dominion", "guidance", "juice", "limitation", "manipulation", "might", "predomination", "qualification", "regimentation", "ropes", "strings", "subjection", "subordination", "superintendence", "supremacy", "sway", "weight", "driver's seat", "inside track", "upper hand", "wire pulling"]
+    },
+    "understanding":{
+        "words":["compassionate", "considerate", "empathetic", "forgiving", "generous", "kindly", "perceptive", "sympathetic", "discerning", "forbearing", "kind", "patient", "sensitive", "responsive"]
+    },
+    "self-love":{
+        "words":["conceit","narcissism","vainglory","vanity"]
+    },
+    "integrity":{
+        "words":["honesty", "principle", "probity", "purity", "rectitude", "sincerity", "virtue", "candor", "forthrightness", "goodness", "honestness", "honorableness", "incorruptibility", "incorruption", "righteousness", "straightforwardness"]
+    }
+}
